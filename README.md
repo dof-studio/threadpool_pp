@@ -38,7 +38,7 @@ int main(){
     }
 
     tp.WaitTillNoPending();  
-    // Wait until all job are running
+    // Wait until all jobs are running
 
     std::cout << "There are currently " << tp.StartedNum() - tp.FinishedNum() << " jobs out of " << tp.StartedNum() << " jobs are running ..." << std::endl;
     // Inspect jobs
