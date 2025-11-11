@@ -2,7 +2,7 @@
 
 A Super Light Header Only No Exception C++ `ThreadPool` Implementation
 
-# Basic Usage Demo
+# Basic Use Demo
 Cross-platform, but at minimum, a `C++20` compiler is required.
 ```cpp
 #include <cmath>
